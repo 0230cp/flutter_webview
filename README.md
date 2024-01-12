@@ -10,11 +10,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the Project**
    
-   Clone this project using the following command:
+  `git clone https://github.com/0230cp/FlutterStudy_WebView.git`
 
 2. **Install Dependencies**
 
-Navigate to your project directory and run:
+`flutter pub get`
 
 ### Used Versions
 
