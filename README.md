@@ -1,16 +1,29 @@
-# hello_world
+# Hello World
 
-A new Flutter project.
+## A Basic WebView Project with Flutter
 
-## Getting Started
+This project is a starting point for a Flutter application. It's especially useful if this is your first Flutter project.
 
-This project is a starting point for a Flutter application.
+### Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+To get started with this project, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the Project**
+   
+   Clone this project using the following command:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Install Dependencies**
+
+Navigate to your project directory and run:
+
+### Used Versions
+
+Here are the versions of the dependencies used in this project:
+
+- `cupertino_icons: ^1.0.2`
+- `flutter_lints: ^2.0.0`
+- `webview_flutter: 4.4.4`
+
+---
+
+I made it with the help of a code factory lecture
